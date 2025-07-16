@@ -16,8 +16,8 @@ Não sou programador full time, apenas gosto de automatizar processos.
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="Firebase"
-    title="Firebase" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
