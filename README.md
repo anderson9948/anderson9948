@@ -5,7 +5,7 @@
 Tenho 26 anos e atuo como Analista de Sistemas Jr. na Maxiplast.  
 Gosto de pensar em soluções que simplificam processos e tornam a rotina da equipe mais eficiente — já desenvolvi ferramentas internas para controle de entradas e saídas de veiculos, EPIs e inventário, sempre com foco na melhoria contínua do setor de T.I. e dos usuários.
 
-Não sou programador, apenas gosto de automatizar processos.
+Não sou programador full time, apenas gosto de automatizar processos.
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 💻 Curto trabalhar com tecnologias Web e um pouco de Mobile  
