@@ -106,16 +106,16 @@ Não sou programador full time, apenas gosto de automatizar processos.
 <br/>
 <br/>
 
-<img 
+<a href="https://www.linkedin.com/in/anderson-palenski-b1278432a/" target="_blank">
+  <img 
     align="left" 
     alt="LinkedIn" 
     title="LinkedIn" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-/>
-<a href="www.linkedin.com/in/anderson-palenski-b1278432a" target="_blank">
-    Meu perfil no LinkedIn
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+  />
 </a>
+
 
 
