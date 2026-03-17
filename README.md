@@ -2,7 +2,7 @@
 
 **`Analista de sistemas Jr.`**
 
-Tenho 26 anos e atuo como Analista de Sistemas Jr. na Maxiplast.  
+Tenho 26 anos e atuo como Analista de Sistemas Jr.
 Gosto de pensar em soluções que simplificam processos e tornam a rotina da equipe mais eficiente — já desenvolvi ferramentas internas para controle de entradas e saídas de veiculos, EPIs e inventário, sempre com foco na melhoria contínua do setor de T.I. e dos usuários.
 
 Não sou programador full time, apenas gosto de automatizar processos.
